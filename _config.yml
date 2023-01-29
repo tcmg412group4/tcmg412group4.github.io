@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/tcmg412group4.github.io'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'TCMG 412 Group 4'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
