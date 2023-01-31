@@ -7,7 +7,7 @@ linkedinurl: ""
 weight: 5
 ---
 
-Hello! My name is Maria Suchil. 
+Hello! My name is Maria Suchil. A fun fact about me is that I sleep with my closet door open.
 
 Hometown: Houston, Tx
 
