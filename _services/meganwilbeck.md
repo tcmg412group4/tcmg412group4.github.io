@@ -11,11 +11,11 @@ Howdy! My name is Megan Wilbeck. I'm a 4th generation Aggie and I'm the loudest,
 
 Hometown: Katy, Texas
 
-Favorite Hobby: Country Western Dancing
+Favorite Hobby: Country Western Dancing!
 
 Dream Job: Service Desk/Help Desk
 
 Degree: Technology Management
 
-Expected Graduation: August 2023
+Expected Graduation: August 2023!
 
