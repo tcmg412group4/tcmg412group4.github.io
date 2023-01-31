@@ -12,9 +12,9 @@ Howdy! My name is Austin John, and I'm currently a senior at Texas A&M Universit
 
 Hometown: Edison, NJ
 
-Favorite Hobby: Watching classic movies
+Favorite Hobby: Watching classic movies!!
 
-Dream Job: Designing cars/car systems
+Dream Job: Designing cars/car systems!
 
 Degree: Technology Management
 
