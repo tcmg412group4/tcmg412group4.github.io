@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:30+10:00
 image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
 jobtitle: "Student"
 linkedinurl: ""
-weight: 3
+weight: 5
 ---
 
 Hello! My name is Maria Suchil. 
