@@ -10,4 +10,4 @@ show_call_box: true
 
 # TCMG 412 Group 4
 
-This is a website that our group has collaborated on and created for our technology management class at Texas A&M University. Group 4 members are below!
+This is a website that our group has collaborated on and created for our technology management class at Texas A&M University. Group 4 members are listed below!
