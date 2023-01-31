@@ -9,7 +9,7 @@ weight: 2
 
 Howdy I am Darius Ellis and I am a Technology Management major with a minor in Business.
 
-Hometown: Paris
+Hometown: Paris, Texas
 
 Favorite Hobby:Playing video games and poker
 
