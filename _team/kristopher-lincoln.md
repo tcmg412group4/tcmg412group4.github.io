@@ -5,7 +5,7 @@ image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Rotational Tech Intern"
 linkedinurl: "http://www.linkedin.com/in/kristopher-lincoln-53b1511ba/"
 promoted: true
-weight: 4
+weight: 5
 ---
 
 Hello my name is Kristopher Lincoln and I am a senior Technology Management major at Texas A&M University!
