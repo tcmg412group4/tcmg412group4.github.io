@@ -4,5 +4,5 @@ layout: contact
 description: Contact
 ---
 
-Our contact information can be found by entering our names into the Aggie Network!
+Our contact information can be found by entering our names into the Aggie Network, as we are all upperclassman!
 
