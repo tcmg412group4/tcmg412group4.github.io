@@ -18,3 +18,5 @@ Dream Job: Ethical Hacker
 Degree: Technology Management
 
 Expected Graduation: Fall 2023
+
+"images/team/images.jpg"
