@@ -10,4 +10,4 @@ show_call_box: true
 
 # TCMG 412 Group 4
 
-Group 4 consists of 6 members: Austin John, Darius Ellis, Justin Hulsey, Kristopher Lincoln, Maria Suchil, and Megan Wilbeck
+This is a website that our group has collaborated on and created for our technology management class at Texas A&M University. Group 4 members are below!
